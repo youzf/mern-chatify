@@ -2,21 +2,23 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-Highlights:
+This project is a full-stack web application built from the ground up with modern technologies, focusing on real-time communication, authentication, and a smooth user experience. It demonstrates best practices in backend security, frontend design, and deployment workflow — making it a solid foundation for scalable web apps.
 
-- 🔐 Custom JWT Authentication (no 3rd-party auth)
-- ⚡ Real-time Messaging via Socket.io
-- 🟢 Online/Offline Presence Indicators
-- 🔔 Notification & Typing Sounds (with toggle)
-- 📨 Welcome Emails on Signup (Resend)
-- 🗂️ Image Uploads (Cloudinary)
-- 🧰 REST API with Node.js & Express
-- 🧱 MongoDB for Data Persistence
-- 🚦 API Rate-Limiting powered by Arcjet
-- 🎨 Beautiful UI with React, Tailwind CSS & DaisyUI
-- 🧠 Zustand for State Management
-- 🧑‍💻 Git & GitHub Workflow (branches, PRs, merges)
-- 🚀 Easy Deployment (free-tier friendly with Sevalla)
+🔥 Key Features:
+
+- 🔐 Custom JWT Authentication – Secure login system without relying on third-party providers.
+- ⚡ Real-time Messaging with Socket.io – Instant chat experience with live updates.
+- 🟢 Presence Indicators – See who’s online or offline in real time.
+- 🔔 Notifications & Typing Sounds – Engaging chat interactions with toggle controls.
+- 📨 Automated Welcome Emails – Sent on signup via Resend.
+- 🗂️ Image Uploads via Cloudinary – Simple and reliable media handling.
+- 🧰 REST API (Node.js + Express) – Well-structured and scalable backend.
+- 🧱 MongoDB Database – Robust NoSQL storage for persistence.
+- 🚦 API Rate-Limiting (Arcjet) – Protects against abuse and ensures reliability.
+- 🎨 Modern UI – Built with React, Tailwind CSS, and DaisyUI for a clean and responsive design.
+- 🧠 State Management – Powered by Zustand for simplicity and performance.
+- 🧑‍💻 Git & GitHub Workflow – Branching, pull requests, and merges for team collaboration.
+- 🚀 Easy Deployment – Free-tier friendly hosting with Sevalla.
 
 ---
 
